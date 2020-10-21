@@ -22,5 +22,9 @@
 
 </p>
 
+<p>
+    <p1><a href="https://github.com/TK20-20/TK20-20.github.io/blob/master/python/pythoninstall.md">信号与系统实践环节</a></p1>
+</p>
+
 </body>
 </html>
