@@ -22,8 +22,5 @@
 
 </p>
 
-<p> <p1>$f(x)=sin(\omega x)$</p1> 
-</p>
-
 </body>
 </html>
