@@ -14,7 +14,7 @@
 </p>
 
 <p>
-    <p1><a href="https://github.com/TK20-20/TK20-20.github.io/blob/main/基本离散时间信号 .py">基本离散时间信号</a></p1>
+    <p1><a href="https://github.com/TK20-20/TK20-20.github.io/blob/main/基本离散时间信号.py">基本离散时间信号</a></p1>
 </p>
 
 <p>
